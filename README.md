@@ -1,5 +1,5 @@
 # Clase_redes
-Clase de redes Fisica No Lineal (Máster de Física USC 2025)
+Clase de redes Fisica No Lineal (Máster de Física USC 2026)
 
 
 Enlace a la API de NetworkX:
